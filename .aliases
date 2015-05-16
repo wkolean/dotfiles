@@ -1,0 +1,19 @@
+alias cdweb='cd /Library/WebServer'
+alias cdkasirer='cd /Library/WebServer/kftcapital/'
+alias cdfagen='cd /Library/WebServer/fagenfriedman/'
+alias cdnike='cd /Library/WebServer/nike/web/'
+alias cdvolvo='cd /Library/WebServer/volvo/volvo-dotcom/'
+
+alias cdwww='cd /Library/WebServer/'
+alias cdpwc='cd /Library/WebServer/acquia/pwc-dev'
+alias cdfiles='cd /Library/WebServer/acquia/pwc-dev/docroot/sites/default/files'
+alias st='git status'
+
+alias vmstart='/Applications/VMware\ Fusion.app/Contents/Library/vmrun -T fusion start ~/Documents/Virtual\ Machines.localized/PwC\ CentOS\ 64-bit.vmwarevm/PwC\ CentOS\ 64-bit.vmx nogui'
+alias vmpause='/Applications/VMware\ Fusion.app/Contents/Library/vmrun -T fusion pause ~/Documents/Virtual\ Machines.localized/PwC\ CentOS\ 64-bit.vmwarevm/PwC\ CentOS\ 64-bit.vmx'
+alias vmstop='/Applications/VMware\ Fusion.app/Contents/Library/vmrun -T fusion stop ~/Documents/Virtual\ Machines.localized/PwC\ CentOS\ 64-bit.vmwarevm/PwC\ CentOS\ 64-bit.vmx'
+alias vmsuspend='/Applications/VMware\ Fusion.app/Contents/Library/vmrun -T fusion suspend ~/Documents/Virtual\ Machines.localized/PwC\ CentOS\ 64-bit.vmwarevm/PwC\ CentOS\ 64-bit.vmx soft'
+alias vmlist='/Applications/VMware\ Fusion.app/Contents/Library/vmrun list'
+alias vmrun='/Applications/VMware\ Fusion.app/Contents/Library/vmrun'
+
+#alias rm='~/bin/rm'

@@ -1,0 +1,11 @@
+[color]
+	ui = auto
+[user]
+	name = William Kolean
+	email = william.kolean@gmail.com
+[credential]
+	helper = osxkeychain
+[core]
+	quotepath = false
+[push]
+	default = simple
