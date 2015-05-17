@@ -170,6 +170,12 @@ defaults write com.apple.terminal StringEncodings -array 4
 # Don’t display the annoying prompt when quitting iTerm
 defaults write com.googlecode.iterm2 PromptOnQuit -bool false
 
+# Don't dim inactive split panes
+defaults write com.googlecode.iterm2 DimInactiveSplitPanes -bool false
+
+# Open the saved window arrangement on startup
+defaults write com.googlecode.iterm2 OpenArrangementAtStartup -bool true
+
 
 
 ###############################################################################
