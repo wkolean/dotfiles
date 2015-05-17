@@ -30,3 +30,10 @@ sh .osx
 
 # php.ini
 
+# Install VirtualBox
+
+# Install Vagrant
+
+# vagrant plugin install vagrant-docker-exec
+
+# DNSMasq for auto dev domains https://echo.co/blog/os-x-1010-yosemite-local-development-environment-apache-php-and-mysql-homebrew
