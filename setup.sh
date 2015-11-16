@@ -36,4 +36,20 @@ sh .osx
 
 # vagrant plugin install vagrant-docker-exec
 
+# Install Fantastical
+
+# Install 1Password
+
+# Install Querious 2
+
+# Install SourceTree (not from Apple Store)
+
+# Install Charles 217c68524ea318f26d  :  RGA Interactive
+
+# Install Kaleidoscope http://www.kaleidoscopeapp.com/
+
 # DNSMasq for auto dev domains https://echo.co/blog/os-x-1010-yosemite-local-development-environment-apache-php-and-mysql-homebrew
+
+# Install npm modules
+  npm install -g grunt-cli
+  sudo gem install sass
