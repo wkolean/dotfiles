@@ -3,6 +3,7 @@ alias cdkasirer='cd /Library/WebServer/kftcapital/'
 alias cdfagen='cd /Library/WebServer/fagenfriedman/'
 alias cdnike='cd /Library/WebServer/nike/web/'
 alias cdvolvo='cd /Library/WebServer/volvo/volvo-dotcom/'
+alias pyweb='python -m SimpleHTTPServer 8000'
 
 alias cdwww='cd /Library/WebServer/'
 alias cdpwc='cd /Library/WebServer/acquia/pwc-dev'
