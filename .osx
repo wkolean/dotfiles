@@ -176,6 +176,9 @@ defaults write com.googlecode.iterm2 DimInactiveSplitPanes -bool false
 # Open the saved window arrangement on startup
 defaults write com.googlecode.iterm2 OpenArrangementAtStartup -bool true
 
+# Terminal use Pro profile
+# set font to Menlo Regular 13 point
+
 
 
 ###############################################################################
